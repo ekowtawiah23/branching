@@ -9,7 +9,7 @@ This assignment is designed to help you practice essential Git commands and work
 1. **Fork and Clone**: Gain experience working with repositories you don't own by forking and cloning.
 2. **Branch Management**: Learn how to create and switch between branches to isolate your changes.
 3. **Commit and Merge**: Practice adding files, committing changes, and merging them with the main branch.
-4. **Push Changes**: Update the remote repository with your changes.
+4. **Push Changes**: Update the remote repository with your changes. 
 
 ---
 
